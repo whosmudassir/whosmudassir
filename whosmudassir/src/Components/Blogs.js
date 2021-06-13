@@ -3,7 +3,7 @@ import React from "react";
 import SingleBlog from "./SingleBlog";
 
 const Blogs = () => {
-  let data = [
+  let blogList = [
     {
       name: "5 Common CSS Mistakes To Avoid",
       date: "May 11, 2021",
@@ -29,7 +29,7 @@ const Blogs = () => {
       </header>
 
       <section>
-        {data.map((data) => {
+        {blogList.map((data) => {
           return (
             <SingleBlog
               name={data.name}
