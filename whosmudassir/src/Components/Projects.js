@@ -12,6 +12,22 @@ const Projects = () => {
       demoLink: "111",
       codeLink: "2222",
     },
+    {
+      name: "pro1",
+      date: "25252",
+      info: "mmmmmmmmmm",
+      tech: "react",
+      demoLink: "111",
+      codeLink: "2222",
+    },
+    {
+      name: "pro1",
+      date: "25252",
+      info: "mmmmmmmmmm",
+      tech: "react",
+      demoLink: "111",
+      codeLink: "2222",
+    },
   ];
 
   return (

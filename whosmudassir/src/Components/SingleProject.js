@@ -5,7 +5,7 @@ const SingleProject = ({ name, date, info, tech, demoLink, codeLink }) => {
     <div>
       <section>
         <h2>
-          <span>• </span>
+          <span>/</span>
           {name}
         </h2>
         <br />
