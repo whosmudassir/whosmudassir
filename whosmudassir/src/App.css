@@ -63,7 +63,7 @@ label a {
 
 .navbar-content li a {
   font-family: "Roboto", sans-serif;
-  font-weight: bolder;
+
   font-size: 1.25rem;
   margin: -5px;
   display: inline-block;
@@ -124,7 +124,7 @@ span {
 
 /* sections */
 section h2 {
-  font-family: "Roboto Slab", serif;
+  font-family: "Roboto";
   font-size: 2.2rem;
 }
 
@@ -224,6 +224,10 @@ label a:hover {
 
 footer ul li a:hover {
   color: var(--effect-color);
+}
+
+.info-para {
+  line-height: 25px;
 }
 
 /*responsive*/

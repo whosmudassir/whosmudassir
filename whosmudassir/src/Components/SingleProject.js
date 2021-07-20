@@ -7,9 +7,8 @@ const SingleProject = ({ name, date, info, tech, demoLink, codeLink }) => {
         <h2>{name}</h2>
         <br />
         <small>{date}</small>
-        <p>
-          {info}, built with
-          <span> {tech}</span>
+        <p className="info-para">
+          {info}, built using {tech}
         </p>
         <p>
           <a class="links" href={demoLink} target="_blank">
