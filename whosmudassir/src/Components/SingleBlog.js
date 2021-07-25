@@ -5,16 +5,13 @@ const SingleBlog = ({ name, date, details, link }) => {
     <div>
       {/* <!-- section --> */}
       <section className="sec-01">
-        <h2>
-          <span>• </span>
-          {name}
-        </h2>
+        <h2>{name}</h2>
         <br />
         <small>{date}</small>
         <p>{details}</p>
         <p>
           <a className="links" href={link} target="_blank">
-            Read Blog
+            Read blog
           </a>
         </p>
       </section>
