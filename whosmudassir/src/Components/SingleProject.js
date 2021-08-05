@@ -3,7 +3,7 @@ import "../App.css";
 const SingleProject = ({ name, date, info, tech, demoLink, codeLink }) => {
   return (
     <div>
-      <section>
+      <section className="single-block">
         <h2>{name}</h2>
         <br />
         <small>{date}</small>

@@ -33,8 +33,8 @@ const Projects = () => {
       date: "July 19, 2021",
       info: "A fackbook clone where you post along with GIFs",
       tech: "React and Giphy API",
-      demoLink: "https://43ft5.csb.app/",
-      codeLink: "https://codesandbox.io/s/todo-final-43ft5",
+      demoLink: "https://csb-yesws.netlify.app/",
+      codeLink: "https://github.com/whosmudassir/fb-clone",
     },
     {
       name: "MovieBox App",
