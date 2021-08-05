@@ -20,7 +20,7 @@ const Nav = () => {
             <Link to="/">M</Link>
           </label>
 
-          <ul class="navbar-content">
+          <ul class="navbar-content" data-theme={darkMode ? "dark" : "light"}>
             <li>
               <Link to="/projects">projects</Link>
             </li>
