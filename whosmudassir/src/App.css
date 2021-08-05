@@ -4,7 +4,7 @@
 :root {
   --primary-color: rgb(255, 255, 255);
   --secondary-color: rgb(0, 0, 0);
-  --effect-color: #ad6fff;
+  --effect-color: #0e86d4;
 }
 
 * {
@@ -173,7 +173,6 @@ section p {
 
   color: var(--primary-color);
   margin-right: 20px;
-
   font-weight: bold;
 }
 
@@ -218,7 +217,8 @@ label a:hover {
 }
 
 .links:hover {
-  color: var(--effect-color);
+  /* color: var(--effect-color); */
+  border-bottom: 2px solid var(--primary-color);
 }
 
 footer ul li a:hover {
