@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mudassir Ahmed Khan, an artist who can code and paint.
+I am Mudassir Ahmed Khan, an artist who can code.
 
 - 🖥 Working at [GeekyAnts](https://geekyants.com)
 - ✨ Current tech stack: JS, React, ReactNative
