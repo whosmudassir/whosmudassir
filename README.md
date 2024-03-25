@@ -2,9 +2,7 @@
 
 💻 Web & Mobile Developer at GeekyAnts.  
 🚀 **Tech:** JavaScript, React, React Native, Next.js.  
-🎨 **Art on Instagram:** [@whosmudassir](https://www.instagram.com/whosmudassir/).  
-📝 [Tech Blog](https://whosmudassir.hashnode.dev/)  
-💼 [Portfolio](https://whosmudassir.vercel.app/).  
-
-⚡️ **Currently Crafting:** Digital experiences and beautiful code.  
-📧 **Contact me:** whosmudassir@gmail.com.
+💼 **Browse:** [Portfolio](https://whosmudassir.vercel.app/).  
+📝 **Read:** [Tech Blog](https://whosmudassir.hashnode.dev/) 
+🎨 **Art:** [@whosmudassir](https://www.instagram.com/whosmudassir/).  
+📧 **Contact:** whosmudassir@gmail.com.
